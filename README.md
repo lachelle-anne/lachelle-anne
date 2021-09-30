@@ -1,8 +1,8 @@
 <p align="center">Hello and welcome to my page! :woman_office_worker:</p>
 
-<p align="center">I'm a graduate developer with an interest in client-side web development. :computer:</p>
+<p align="center">I'm a graduate developer with an interest in client-side web development. :computer: :seedling: </p>
 
-<p align="center">I have been working on a range of projects to improve my understanding and fluency in programming languages, IDE's and tools. :seedling:</p>
+<p align="center">https://linktr.ee/la_codes</p>
 
 ------------
 
