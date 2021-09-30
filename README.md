@@ -4,8 +4,6 @@
 
 <p align="center">I have been working on a range of projects to improve my understanding and fluency in programming languages, IDE's and tools. :seedling:</p>
 
-<p align="center">I aspire to work among a team of passionate developers who share the same curiosity for programming as I do! :chart:</p>
-
 ------------
 
 <div align="center">
