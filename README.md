@@ -1,16 +1,19 @@
-### Hi there 👋
+<p align="center">Hello and welcome to my page! :woman_office_worker:</p>
 
-<!--
-**lachelle-anne/lachelle-anne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">I'm a graduate developer with an interest in client-side web development. :computer:</p>
 
-Here are some ideas to get you started:
+<p align="center">I have been working on a range of projects to improve my understanding and fluency in programming languages, IDE's and tools. :seedling:</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">I aspire to work among a team of passionate developers who share the same curiosity for programming as I do! :chart:</p>
+
+------------
+
+<div align="center">
+    
+| PROGRAMMING LANGUAGES |  LIBRARIES |   FRAMEWORKS |   TOOLS / SERVICES |
+| :---: |   :---:  |  :---:  |  :---:  |
+| JavaScript, TypeScript, C#, SQL, HTML/CSS | jQuery, React | Bootstrap, ASP.NET, React Native | Google Analytics, Git |
+    
+</div>
+
+-------------
